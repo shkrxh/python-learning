@@ -9,3 +9,8 @@ Day 02 - String
 - character position
 - slicing
 - string format
+
+Day 03 - Operators
+- Arithmetic operators
+- Comparison operators
+- Membership operators
