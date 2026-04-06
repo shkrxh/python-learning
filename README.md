@@ -14,3 +14,8 @@ Day 03 - Operators
 - Arithmetic operators
 - Comparison operators
 - Membership operators
+
+Day 04 - List
+- Access list
+- Add item
+- Remove item
