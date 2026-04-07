@@ -19,3 +19,9 @@ Day 04 - List
 - Access list
 - Add item
 - Remove item
+
+Day 05 - List (cont)
+- Change item
+- Sort item
+- Join list
+- Loop in the list
