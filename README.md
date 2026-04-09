@@ -25,3 +25,15 @@ Day 05 - List (cont)
 - Sort item
 - Join list
 - Loop in the list
+
+Day 06 - Tuple
+- Access tuple
+- Add item (convert to list, joining tuple)
+- Remove item (convert to list)
+- Change item (convert to list)
+- Packing/Unpacking tuple
+
+Day 07 - Set
+- Access set
+- Add item 
+- Remove item 
