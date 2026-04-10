@@ -45,3 +45,8 @@ Day 08 - Dictionary
 - Remove item 
 - Copy dictionary
 - Nested dictionary
+
+Day 09 - If Statement
+- Condition
+- If, elif, else statement
+- Shorthand if, elif, else statement
