@@ -37,3 +37,11 @@ Day 07 - Set
 - Access set
 - Add item 
 - Remove item 
+
+Day 08 - Dictionary
+- Access dictionary (key, value)
+- Add item
+- Change item
+- Remove item 
+- Copy dictionary
+- Nested dictionary
