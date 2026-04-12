@@ -50,3 +50,8 @@ Day 09 - If Statement
 - Condition
 - If, elif, else statement
 - Shorthand if, elif, else statement
+
+Day 10 - If Statement (cont)
+- Operator
+- Nested if statement
+- Pass, continue, break statement
