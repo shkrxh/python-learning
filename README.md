@@ -55,3 +55,12 @@ Day 10 - If Statement (cont)
 - Operator
 - Nested if statement
 - Pass, continue, break statement
+
+Day 11 - Match Statement
+- Match statement
+- Default Value
+- Combine (operator |, if statement)
+
+Day 12 - While loop
+- While loop, while loop with else statement
+- Continue, break statement
