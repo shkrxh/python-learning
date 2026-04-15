@@ -64,3 +64,8 @@ Day 11 - Match Statement
 Day 12 - While loop
 - While loop, while loop with else statement
 - Continue, break statement
+
+Day 13 - For loop
+- for loop, for loop with else statement
+- Continue, break, pass statement
+- Nested loop
