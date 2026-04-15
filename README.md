@@ -66,6 +66,6 @@ Day 12 - While loop
 - Continue, break statement
 
 Day 13 - For loop
-- for loop, for loop with else statement
+- For loop, for loop with else statement
 - Continue, break, pass statement
 - Nested loop
