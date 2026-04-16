@@ -69,3 +69,9 @@ Day 13 - For loop
 - For loop, for loop with else statement
 - Continue, break, pass statement
 - Nested loop
+
+Day 14 - Function
+- Function, function with argument and parameter
+- Paasing argument
+- Return value
+- Positional only argument, keyword only argument
