@@ -75,3 +75,8 @@ Day 14 - Function
 - Paasing argument
 - Return value
 - Positional only argument, keyword only argument
+
+Day 14 - Function (cont)
+- *args arguments
+- **kwargs argument
+- Unpacking argument
