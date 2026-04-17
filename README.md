@@ -76,12 +76,12 @@ Day 14 - Function
 - Return value
 - Positional only argument, keyword only argument
 
-Day 14 - Function (cont)
+Day 15 - Function (cont)
 - *args arguments
 - **kwargs argument
 - Unpacking argument
 
-Day 15 - Function (cont)
+Day 16 - Function (cont)
 - Local scope, global scope
 - Global keyword, nonlocal keyword
 - LEGB rule
