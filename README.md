@@ -80,3 +80,8 @@ Day 14 - Function (cont)
 - *args arguments
 - **kwargs argument
 - Unpacking argument
+
+Day 15 - Function (cont)
+- Local scope, global scope
+- Global keyword, nonlocal keyword
+- LEGB rule
