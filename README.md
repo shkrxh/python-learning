@@ -72,7 +72,7 @@ Day 13 - For loop
 
 Day 14 - Function
 - Function, function with argument and parameter
-- Paasing argument
+- Passing argument
 - Return value
 - Positional only argument, keyword only argument
 
@@ -85,3 +85,7 @@ Day 16 - Function (cont)
 - Local scope, global scope
 - Global keyword, nonlocal keyword
 - LEGB rule
+
+Day 17 - Function (cont)
+- Lambda
+- Lambda with map, filter, sorted
