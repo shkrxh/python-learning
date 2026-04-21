@@ -89,3 +89,11 @@ Day 16 - Function (cont)
 Day 17 - Function (cont)
 - Lambda
 - Lambda with map, filter, sorted
+
+Day 18 - Function (cont)
+- Recursion
+- Generators
+
+Day 19 - Range
+- One, Two, Three Arguments
+- Display and slicing range
