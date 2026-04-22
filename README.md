@@ -97,3 +97,7 @@ Day 18 - Function (cont)
 Day 19 - Range
 - One, Two, Three Arguments
 - Display and slicing range
+
+Day 20 - Maths
+- Build-in math function
+- Math Module
