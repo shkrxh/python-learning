@@ -101,3 +101,7 @@ Day 19 - Range
 Day 20 - Maths
 - Build-in math function
 - Math Module
+
+Day 20 - Date
+- Date format
+- Add, subtract date
