@@ -105,3 +105,7 @@ Day 20 - Maths
 Day 20 - Date
 - Date format
 - Add, subtract date
+
+Day 21 - RegEx
+- Regular expression
+- Special sequence, sets
