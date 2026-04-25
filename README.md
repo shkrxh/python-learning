@@ -109,3 +109,7 @@ Day 20 - Date
 Day 21 - RegEx
 - Regular expression
 - Special sequence, sets
+
+Day 22 - Try Except
+- Try, except, else, finally
+- Raise an exception
