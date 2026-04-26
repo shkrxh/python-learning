@@ -102,14 +102,19 @@ Day 20 - Maths
 - Build-in math function
 - Math Module
 
-Day 20 - Date
+Day 21 - Date
 - Date format
 - Add, subtract date
 
-Day 21 - RegEx
+Day 22 - RegEx
 - Regular expression
 - Special sequence, sets
 
-Day 22 - Try Except
+Day 23 - Try Except
 - Try, except, else, finally
 - Raise an exception
+
+Day 24 -  String Formatting
+- Combine data type
+- Format number, calculation
+- If statement in fstring
