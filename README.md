@@ -118,3 +118,9 @@ Day 24 -  String Formatting
 - Combine data type
 - Format number, calculation
 - If statement in fstring
+
+Day 25 -  String Formatting (cont)
+- Format string
+
+Day 26 -  Input
+- Single input, multiple input
